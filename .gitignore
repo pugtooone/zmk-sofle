@@ -5,3 +5,4 @@ tools/
 .west/
 eyelash-zmk/
 firmware/
+.DS_Store
