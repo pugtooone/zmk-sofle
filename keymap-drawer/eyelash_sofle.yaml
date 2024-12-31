@@ -86,9 +86,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '=', s: +}
-  - +
-  - {t: '-', s: _}
-  - _
+  - MNUS
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
