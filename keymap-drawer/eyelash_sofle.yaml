@@ -62,8 +62,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - {t: '$$mdi:backspace$$', type: backspace}
-  - PG UP
-  - PG DN
+  - HOME
+  - END
   layer1:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
